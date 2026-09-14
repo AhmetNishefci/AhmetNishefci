@@ -24,7 +24,7 @@ Agentic AI · Langfuse · LLM-powered workflows · AI observability
 
 **Wave Nearby** — Proximity-based social discovery mobile app built around real-world nearby interactions.  
 React Native · Expo · TypeScript · Bluetooth Low Energy  
-[View on the App Store](https://apps.apple.com/us/app/wave-nearby/id6760919706)
+[Visit Wave Nearby](https://www.wavenearby.com/)
 
 **CareFree** — Production automotive service platform for the Swiss market.  
 [Visit CareFree](https://www.care-free.ch/)
