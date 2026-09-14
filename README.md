@@ -34,4 +34,4 @@ React Native · Expo · TypeScript · Bluetooth Low Energy
 
 ### Connect
 
-[Portfolio](https://ahmet-nishefci.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ahmetnishefci/)
+[Portfolio](https://www.ahmetnishefci.com/) · [LinkedIn](https://www.linkedin.com/in/ahmetnishefci/)
